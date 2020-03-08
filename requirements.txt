@@ -1,0 +1,9 @@
+cv2
+numpy
+pytesseract
+argparse
+matplotlib
+math
+logging
+threading
+time
